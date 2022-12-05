@@ -1,4 +1,7 @@
 ## Idea
 
-project to learn useState.
-created by John smilga at FreeCodeCamp.
+idea by John Smilga from FreeCodeCamp
+
+## Project
+
+React project to practice useState
